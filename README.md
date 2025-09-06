@@ -293,6 +293,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Built with Doma](https://img.shields.io/badge/Built%20with-Doma%20Protocol-blue?style=for-the-badge)](https://doma.io)
 [![Track 2](https://img.shields.io/badge/Track-Trading%20%26%20Portfolio%20Tools-green?style=for-the-badge)](#)
-[![Prize Eligible](https://img.shields.io/badge/Prize%20Eligible-$10K%20USDC-gold?style=for-the-badge)](#)
 
 </div>
