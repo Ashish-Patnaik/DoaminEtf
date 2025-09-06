@@ -6,7 +6,7 @@
 [![Doma Protocol](https://img.shields.io/badge/Built%20on-Doma%20Protocol-blue)](https://doma.io)
 [![Hackathon](https://img.shields.io/badge/DomainFi-Challenge-yellow)](https://hackathon.doma.io)
 
-## 🎯 One-Liner
+## 🎯 Track: Trading Competitions & Portfolio Tools
 
 **DomainETF enables users to invest in diversified baskets of tokenized domains (like ETFs), making domain investing accessible to everyone while generating massive on-chain trading volume for Doma Protocol.**
 
@@ -14,6 +14,7 @@
 
 
 ---
+
 
 ## 🚀 Problem & Solution
 
@@ -155,7 +156,6 @@ contract CompetitionEngine {
 - 🔐 **Solidity 0.8.19** with OpenZeppelin
 - 🧪 **Hardhat** development environment
 - ✅ **100% Test Coverage** with comprehensive edge cases
-- 🔍 **Slither** security analysis
 
 ### **Backend Services**
 - ⚡ **Node.js + Express** API server
@@ -224,8 +224,8 @@ cd domainetf
 npm install
 
 # Configure environment
-cp .env.example .env
-# Add your Doma testnet RPC, contract addresses
+cp env_example.txt .env
+# Add your Doma testnet RPC, contract addresses, API KEYS
 
 # Start development server
 npm run dev
@@ -250,7 +250,6 @@ npm run deploy:testnet
 - ✅ **First-of-its-kind**: Domain ETF concept never built before
 - ✅ **Novel Mechanics**: Tokenized portfolios + competitive trading  
 - ✅ **DeFi Primitives**: Advanced financial instruments for domains
-- ✅ **AI Integration**: Smart rebalancing and opportunity detection
 
 ### **Doma Integration (30%)**  
 - ✅ **Deep Protocol Usage**: Oracles, multi-chain, tokenization, events
@@ -265,13 +264,20 @@ npm run deploy:testnet
 - ✅ **Educational Content**: Guides for new domain investors
 
 ### **Demo Quality (10%)**
-- ✅ **Working MVP**: Fully functional with real integrations
 - ✅ **Professional UI**: Modern design with smooth animations
 - ✅ **Clear Value Prop**: Obvious benefits demonstrated live
 - ✅ **Compelling Story**: Democratizing domain investing narrative
 
 ---
 
+## 🏆 Hackathon Submission
+
+- Track 2 : Trading Competitions & Portfolio Tools
+- Team: Solo 
+- GitHub: [https://github.com/Ashish-Patnaik/DomainETF](https://github.com/Ashish-Patnaik/DomainETF)
+- Twitter: [@ashdebugs](https://x.com/ashdebugs)
+
+---
 
 ## 📄 License
 
