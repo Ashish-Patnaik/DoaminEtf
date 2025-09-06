@@ -1,0 +1,38 @@
+# Domain ETF Backend Environment Variables
+
+# Server Configuration
+PORT=3001
+NODE_ENV=development
+
+# Doma Protocol Configuration
+DOMA_API_KEY=your_doma_testnet_api_key_here
+DOMA_API_BASE=https://api-testnet.doma.xyz
+
+# Blockchain Configuration
+SUPPORTED_CHAIN_ID=ethereum:11155111
+ETHEREUM_RPC_URL=https://sepolia.infura.io/v3/your_infura_key
+PRIVATE_KEY=your_private_key_for_testing
+
+# Security
+JWT_SECRET=your_jwt_secret_key_here
+API_RATE_LIMIT=100
+
+
+# Logging
+LOG_LEVEL=info
+
+# CORS Settings
+ALLOWED_ORIGINS=http://localhost:3000,http://localhost:5173
+
+# WebSocket Configuration
+WS_HEARTBEAT_INTERVAL=30000
+
+# Portfolio Configuration
+DEFAULT_PORTFOLIO_SHARES=1000
+MIN_PORTFOLIO_DOMAINS=2
+MAX_PORTFOLIO_DOMAINS=20
+
+# Trading Configuration
+MIN_SHARE_PURCHASE=1
+MAX_SHARE_PURCHASE=1000
+TRANSACTION_FEE_PERCENTAGE=0.5
